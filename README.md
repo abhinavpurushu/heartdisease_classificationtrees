@@ -38,6 +38,6 @@ Using the Random Forest model, the most important features influencing heart dis
 5. Thalassemia Type (thal).
 
 ## Model Visualization - Image
-The image "decision_tree.jpg" displays the structure of the Decision Tree.
+The image "decision_tree.png" displays the structure of the Decision Tree.
 
-The image "Feature_Importances.jpg" displays the bar plot of importance of each feature as calculated by the Random Forest model.
+The image "Feature_Importances.png" displays the bar plot of importance of each feature as calculated by the Random Forest model.
